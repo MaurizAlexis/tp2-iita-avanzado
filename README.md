@@ -31,6 +31,9 @@ En mi código se ve así.
             40.0 en adelante.
             Usted tiene obesidad grado 3.
 
+
+. En mi caso personal, estoy en sobrepeso.
+
 ### Diseño de Software
 
 #### Bloques de código
