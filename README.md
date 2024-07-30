@@ -11,6 +11,12 @@ Calculadora de Índice de Masa Corporal personal que funciona para propositos pe
 
     **imc = peso / (altura \*\* 2)**
 
+En mi código se ve así.
+
+    def formula_imc(self, altura, peso):
+        imc = peso / (altura ** 2)
+        return imc
+
 1.  Realiza el código el ingreso de datos de la persona como ser altura y peso
 1.  Determina un rango de IMC de la persona en base a los datos de altura y peso calculados en el siguiente rango.
 
