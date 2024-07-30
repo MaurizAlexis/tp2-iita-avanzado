@@ -70,3 +70,7 @@ Se realiza el despliegue de una estructura basada en **Funciones** que se despli
 ### Recomendaciones.
 
 En caso de que lo prefiera, puede realizar cambios en beneficio de la mejora del código y su proposito principal, una herramineta de control del IMC.
+
+### Recomiendo Leer **ADVERTENCIA**
+
+En caso de que quieras tomar medidas para mejorar tu condición fisica en relación de IMC te aconsejo consultes con un profesional de la salud capacitado para que te guie en tu salud, esta es solo una herramienta de uso personal, consulta con un profesional antes de tomar cualquier desición. No me responsabilizo de ninguna manera por su uso más que el educativo para el que quiera usarlo.

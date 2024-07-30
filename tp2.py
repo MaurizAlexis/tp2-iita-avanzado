@@ -21,7 +21,7 @@ class CalculadoraIMC:
                     print("Por favor, ingrese su peso en números positivos.")
                     continue
                 
-                altura = int(altura) / 100  # Convertir altura a metros
+                altura = int(altura) / 100 
                 peso = float(peso)
                 
                 imc = self.formula_imc(altura, peso)
