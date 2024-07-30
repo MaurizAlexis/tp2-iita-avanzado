@@ -31,7 +31,6 @@ En mi código se ve así.
             40.0 en adelante.
             Usted tiene obesidad grado 3.
 
-
 . En mi caso personal, estoy en sobrepeso.
 
 ### Diseño de Software
@@ -77,3 +76,7 @@ En caso de que lo prefiera, puede realizar cambios en beneficio de la mejora del
 ### Recomiendo Leer **ADVERTENCIA**
 
 En caso de que quieras tomar medidas para mejorar tu condición fisica en relación de IMC te aconsejo consultes con un profesional de la salud capacitado para que te guie en tu salud, esta es solo una herramienta de uso personal, consulta con un profesional antes de tomar cualquier desición. No me responsabilizo de ninguna manera por su uso más que el educativo para el que quiera usarlo.
+
+### Invitación
+
+Puedes mejorar el código y la documentación según tu criterio profesional como programador y desarrollador.
