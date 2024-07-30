@@ -1,8 +1,10 @@
 class CalculadoraIMC:
   
+  # Inicializa el código aplicando atributo self para llamar a funciones a ejecutarse en el código de python.
+  
     def __init__(self):
         self.continuar = True
-    
+        
     def formula_imc(self, altura, peso):
         imc = peso / (altura ** 2)
         return imc
